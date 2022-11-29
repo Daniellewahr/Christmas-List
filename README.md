@@ -19,6 +19,7 @@ The video below demonstrates the current features of the extension.
 - Would also like to store data in Google storage api so it doesn not get lost after closing the extension or refreshing the page 
 - In future versions, I would like to include other holidays as well (including birthays).
 - Each holiday will have its own theme 
+- Create a logo for Checkmas
 
 # Advantages of Project 
 Not only will I, and hopefully others, be able to use this extension, it is a great learning experience as well. Progressing through this project is allowing
