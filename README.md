@@ -5,7 +5,7 @@ Not only will this extension track a list for one person, my goal is to be able 
 
 # Current Status 
 
-The video below demonstrates the current features of the extension. Right now it consists of one popup window, where you can add list items as long as you provide the name of the item and a price. You can add items, delete items, and check/uncheck an item. 
+The video below demonstrates the current features of the extension. Right now it consists of one popup window, where you can add list items as long as you provide the name of the item and a price. You can add items, delete items, and check/uncheck an item. The extension raises an error if an item name or price is not provided, and if the price is not an integer or float. 
 
 <p align="center">
 <img src="checkmas.gif" width="800">
