@@ -22,5 +22,4 @@ The video below demonstrates the current features of the extension.
 
 # Advantages of Project 
 Not only will I, and hopefully others, be able to use this extension, it is a great learning experience as well. Progressing through this project is allowing
-me to strengthen my HTML, CSS, and Javascript skills. In addition, I am now very comfrotable intergrating with Google Extensions. Once I complete Checkmas, 
-I will know how to work with Google's storage api.
+me to strengthen my HTML, CSS, and Javascript skills. In addition, I am now very comfrotable intergrating with Google Extensions. In addition, once I complete Checkmas, I will know how to work with Google's storage api.
