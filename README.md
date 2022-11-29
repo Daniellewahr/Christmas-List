@@ -17,7 +17,7 @@ The video below demonstrates the current features of the extension. Right now it
 - Budget will be inputed by the user, and will decrease every time someone checks off an item
 - Money spent will show how much the user has spent so far
 - Would also like to store data in Google storage api so it doesn not get lost after closing the extension or refreshing the page 
-- In future versions, I would like to include other holidays as well (including birthays).
+- In future versions, I would like to include other holidays as well (including birthdays).
 - Each holiday will have its own theme 
 - Create a logo for Checkmas
 
