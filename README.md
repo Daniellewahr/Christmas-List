@@ -8,7 +8,7 @@ Not only will this extension track a list for one person, my goal is to be able 
 The video below demonstrates the current features of the extension. 
 
 <p align="center">
-<img src="christmas_list_recording.gif" width="300">
+<img src="checkmas.gif" width="800">
 </p>
 
 # Objectives 
