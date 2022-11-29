@@ -7,6 +7,10 @@ Not only will this extension track a list for one person, my goal is to be able 
 
 The video below demonstrates the current features of the extension. 
 
+<p align="center">
+<img src="christmas_list_recording.gif" width="300">
+</p>
+
 # Objectives 
 - Have a home page with access to lists, a budget, and money spent features 
 - Allow the creation of multiple christmas lists 
